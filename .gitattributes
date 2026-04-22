@@ -1,0 +1,21 @@
+# Normaliza todos os arquivos de texto para LF no repositório
+* text=auto eol=lf
+
+# Arquivos de texto explícitos
+*.html text eol=lf
+*.css  text eol=lf
+*.js   text eol=lf
+*.json text eol=lf
+*.md   text eol=lf
+
+# Binários — nunca converter finais de linha
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.ico  binary
+*.webp binary
+*.svg  binary
+*.ttf  binary
+*.woff binary
+*.woff2 binary
