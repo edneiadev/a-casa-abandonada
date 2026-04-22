@@ -33,6 +33,7 @@ Monte 4 estações (ou 4 envelopes em ordem). Cada estação resolvida revela um
 ### Regra do código final
 
 Para manter consistência entre as etapas, use sempre o **último algarismo do último termo encontrado** em cada estação.
+Exemplo: se o último termo for 23, o número-código da estação será 3.
 
 ## Desafios do escape room
 
@@ -74,7 +75,7 @@ Complete a sequência:
 
 ## Código final do cofre
 
-Juntando os códigos das estações: **0350** (cofre com 4 dígitos, incluindo zero inicial).
+Juntando os códigos das estações na ordem **1 → 2 → 3 → 4**: **0350** (cofre com 4 dígitos, incluindo zero inicial).
 
 ## Mediação do professor
 
