@@ -1,0 +1,17 @@
+{
+  "name": "Escape Room - A casa abandonada",
+  "short_name": "Casa abandonada",
+  "description": "Jogo educativo de escape room sobre sistema de numeracao decimal para o 3o ano.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#120907",
+  "theme_color": "#24110b",
+  "orientation": "landscape",
+  "icons": [
+    {
+      "src": "imagens/icone.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
