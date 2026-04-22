@@ -1,6 +1,6 @@
 # A Casa Abandonada
 
-Escape room pedagógico de Matemática para os anos iniciais do Ensino Fundamental (a partir do 3º ano), com foco em **sequências numéricas**.
+Escape room pedagógico de matemática para os anos iniciais do Ensino Fundamental (a partir do 3º ano), com foco em **sequências numéricas**.
 
 ## Objetivo pedagógico
 
@@ -30,6 +30,10 @@ A turma recebeu uma missão: explorar a Casa Abandonada e encontrar a chave do c
 
 Monte 4 estações (ou 4 envelopes em ordem). Cada estação resolvida revela um número do código final.
 
+### Regra do código final
+
+Para manter consistência entre as etapas, use sempre o **último algarismo do último termo encontrado** em cada estação.
+
 ## Desafios do escape room
 
 ### Estação 1 — Corredor dos Passos
@@ -39,7 +43,7 @@ Complete a sequência:
 
 - Regra esperada: +4
 - Resposta: 16, 20
-- **Número-código da estação:** **2** (último algarismo de 20)
+- **Número-código da estação:** **0** (último algarismo de 20)
 
 ### Estação 2 — Biblioteca Misteriosa
 Complete a sequência:
@@ -48,7 +52,7 @@ Complete a sequência:
 
 - Regra esperada: -2
 - Resposta: 25, 23
-- **Número-código da estação:** **5** (primeiro algarismo de 25)
+- **Número-código da estação:** **3** (último algarismo de 23)
 
 ### Estação 3 — Sala do Relógio
 Descubra o próximo termo:
@@ -57,7 +61,7 @@ Descubra o próximo termo:
 
 - Regra esperada: +5
 - Resposta: 25
-- **Número-código da estação:** **5**
+- **Número-código da estação:** **5** (último algarismo de 25)
 
 ### Estação 4 — Sótão Secreto
 Complete a sequência:
@@ -66,11 +70,11 @@ Complete a sequência:
 
 - Regra esperada: -10
 - Resposta: 70, 60
-- **Número-código da estação:** **6** (último algarismo de 60)
+- **Número-código da estação:** **0** (último algarismo de 60)
 
 ## Código final do cofre
 
-Juntando os códigos das estações: **2556**.
+Juntando os códigos das estações: **0350** (cofre com 4 dígitos, incluindo zero inicial).
 
 ## Mediação do professor
 
